@@ -216,3 +216,7 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# Ignore CocoaPods generated files
+/ios11-using-rn/Pods
+/ios11-using-rn/Podfile.lock
