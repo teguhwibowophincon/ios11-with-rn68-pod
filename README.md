@@ -16,3 +16,7 @@
  - Open ios11-using-rn.xcworkspace
  - Run the project
  - Happy Trying
+ 
+ # References
+ - https://artsy.github.io/blog/2018/04/17/making-a-components-pod/
+ - https://www.youtube.com/watch?v=ucQXL4vkP78
