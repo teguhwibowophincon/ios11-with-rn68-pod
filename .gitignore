@@ -39,8 +39,8 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
-jspm_packages/
+/rn68/node_modules/
+/rn68/jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -220,3 +220,6 @@ iOSInjectionProject/
 # Ignore CocoaPods generated files
 /ios11-using-rn/Pods
 /ios11-using-rn/Podfile.lock
+
+/rn68/Example/Pods
+/rn68/Example/Podfile.lock
