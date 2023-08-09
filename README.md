@@ -4,10 +4,7 @@
  # Instalation Guide
  - Go to rn68
  - "npm install" inside rn68 folder
- 
- - Go to rn68/Example
- - "bundle exec pod install" inside rn68/Example folder
- 
+
  - Go to ios11-using-rn
  - "pod install" inside ios11-using-rn folder
  
